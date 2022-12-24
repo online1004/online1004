@@ -1,7 +1,7 @@
 ```ini
 [ Online  ]
 Contact : Online#0007
-Language : Python / Javascript / TypeScript
+Language : JavaScript / Python / Kotlin
 ```
 ```css
 # Korean #
