@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minseong Kim</h1>
 <h3 align="center">A Back-end Developer from Korea</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=online1004&label=Profile%20views&color=0e75b6&style=flat" alt="online1004" /> </p>
 
