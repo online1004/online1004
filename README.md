@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **PREMIUM SERVICE TEAM**
 
+- 📫 Contact PREMIUM SERVICE TEAM **help@pre-mium.kr**
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Python , Javascript**
