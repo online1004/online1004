@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=online1004&label=Profile%20views&color=0e75b6&style=flat" alt="online1004" /> </p>
 
-- 🔭 I’m currently working on **PREMIUM SERVICE TEAM**
-
-- 📫 Contact PREMIUM SERVICE TEAM **help@pre-mium.kr**
+- 🔭 I’m currently working on **VENDS.VIP**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -16,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/premium-service" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fde" height="30" width="40" /></a>
+<a href="https://t.me/vendsvip" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="fde" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
